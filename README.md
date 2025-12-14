@@ -244,13 +244,8 @@ This project demonstrates:
 - **Reproducibility**: Requirements file and setup scripts for easy replication
 - **Professional Documentation**: Comprehensive README and inline documentation
 
-## 📞 Contact & Links
 
-**Project Author:** Pradeep Jung  
-**GitHub Repository:** [pradeepjung45/airline_passengers](https://github.com/pradeepjung45/airline_passengers)  
-**Dataset Source:** [Kaggle - Airline Passengers Dataset](https://www.kaggle.com/)
 
----
 
 ## 📄 License
 
